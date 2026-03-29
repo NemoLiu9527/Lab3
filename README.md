@@ -1,4 +1,4 @@
-## Lab 3
+2## Lab 3
 
 ### Getting Started
 
@@ -14,6 +14,6 @@ You can work on Step 1 or Step 2 independently. Good luck! 🤖
 
 #### You can test that you have SSH keys set up correctly by trying to modify these values from wherever you cloned this repository
 
-Your Name: `your name`
+Your Name: `Heming Liu`
 
-Your Email: `your email@purdue.edu`
+Your Email: `Liu2597@purdue.edu`
